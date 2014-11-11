@@ -3,8 +3,8 @@ Flat & delimited file import
 
  Author	E. P. 't Hoen
  Type	Module
- Latest Version	v4.1.2
- Package filename	 FlatFileInterfacev4.1.2.mpk
+ Latest Version	v4.2.0
+ Package filename	 FlatFileInterfacev4.2.0.mpk
  
 
 Description
@@ -65,7 +65,7 @@ First install the MxModelReflection module then install this module.
 Dependencies
  
 
-Mendix 4.3.2 Environment
+Mendix 4.8.8 Environment
 MxModel Reflection module v3.3
 Configuration
 Setup:
