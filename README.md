@@ -3,8 +3,8 @@ Flat & delimited file import
 
  Author	E. P. 't Hoen
  Type	Module
- Latest Version	v4.4.0
- Package filename	 FlatFileInterfacev4.4.0.mpk
+ Latest Version	v5.5.0
+ Package filename	 FlatFileInterfacev5.5.0.mpk
  
 
 Description
@@ -47,6 +47,7 @@ Integer
 Long
 Float
 Currency
+Decimal
 Enumeration
 Boolean
 Date and Time
@@ -65,7 +66,7 @@ First install the MxModelReflection module then install this module.
 Dependencies
  
 
-Mendix 5.13.1 Environment
+Mendix 5.18.0 Environment
 MxModel Reflection module
 Configuration
 Setup:
@@ -113,6 +114,9 @@ Skip first row: If set to true the first row of the import file will be skipped
 
 Trigger Events: If set to true the submit of data in the destination entity will trigger events when defined
 
+Batch size: Determine the size of the batch before commiting to the database
+
+Log to Console: If set to true logging will be available in the console or logfile
  
 
 Now it's time to define your columns, to do this save your configuration.
