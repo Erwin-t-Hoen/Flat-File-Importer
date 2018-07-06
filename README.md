@@ -3,8 +3,8 @@ Flat & delimited file import
 
  Author	E. P. 't Hoen
  Type	Module
- Latest Version	v7.0.0
- Package filename	 FlatFileInterfacev7.0.0.mpk
+ Latest Version	v7.1.0
+ Package filename	 FlatFileInterfacev7.1.0.mpk
  
 
 Description
