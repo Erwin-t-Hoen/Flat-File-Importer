@@ -3,8 +3,8 @@ Flat & delimited file import
 
  Author	E. P. 't Hoen
  Type	Module
- Latest Version	v7.1.0
- Package filename	 FlatFileInterfacev7.1.0.mpk
+ Latest Version	v7.23.5
+ Package filename	 FlatFileInterfacev7.23.5.mpk
  
 
 Description
@@ -31,7 +31,6 @@ You could create an interface entity that will receive the data from the file an
 
 Features and limitations
  
-
 Import delimited files.
 Import fixed length files.
 Skip columns.
@@ -45,8 +44,6 @@ Supported data types:
 String
 Integer
 Long
-Float
-Currency
 Decimal
 Enumeration
 Boolean
@@ -55,9 +52,11 @@ Unsupported date types:
 Autonumber
 Binary
 Hash string
+
 Supported languages:
 English
 Dutch
+
 Installation
  
 
