@@ -48,7 +48,7 @@ You could create an interface entity that will receive the data from the file an
 - Enumeration
 - Boolean
 - Date and Time
-- Unsupported date types:
+## Unsupported date types:
 - Autonumber
 - Binary
 - Hash string
