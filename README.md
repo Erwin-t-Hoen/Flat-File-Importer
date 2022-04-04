@@ -4,8 +4,8 @@ Flat & delimited file import
 
 > **Author:** E. P. 't Hoen\
 **Type:** Module\
-**Latest Version:** v7.23.5\
-**Package filename:** FlatFileInterfacev7.23.5.mpk\
+**Latest Version:** v9.6.10\
+**Package filename:** FlatFileInterfacev9.6.10.mpk\
 
 
 # Description
@@ -63,7 +63,7 @@ First install the MxModelReflection module then install this module.
 
 # Dependencies
 
-- Mendix 7.1.1 Environment
+- Mendix 9.6.10 Environment
 - MxModel Reflection module
 
 # Configuration
